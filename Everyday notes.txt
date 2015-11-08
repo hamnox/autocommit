@@ -32,11 +32,11 @@ ask lauren if we can stop by luluscyclery/tiptopbikeshop
 go by biketopia after 4pm with bike to pound out pedal
 
 Conspire Emails
-post random things to irc channels
-brainstorm friends so we can E.V. relationships
-try making a phone call
-ask lahwran for help adding T-Mobile channel to Cloze
+go through FB with social flowchart
+E.V. diff friend groups
 look up a Cloze connection, fill out followup draft
+post random things to irc channels
+ask lahwran for help adding T-Mobile channel to Cloze
 
 
 Clean room
@@ -89,7 +89,7 @@ describe what happened with first two emails, apologize
 10min brainstorm getting a desk questions
 10 min check people on PTAB list
 
-	•	Not working? Go to inbox and plan something to make it more possible later
+ ------  Not working? Go to inbox and plan something to make it more possible later
 
 https://www.random.org/lists/
 
@@ -122,6 +122,11 @@ renegotiate with Kip about card payment
 things to throw away http://www.popsugar.com.au/smart-living/All-Things-You-Should-Throw-Away-37625616
 need to tap this somehow... http://www.popsugar.com.au/smart-living/Good-Questions-Ask-During-Interview-37638980
 need to save changes to this somehow. auto git refreshes, so I can just get + and - lines.
+print no one is alone prn
+print stopping by the woods prn
+Food spicing notes: https://imgur.com/a/FJGiw
+Cut crutch hair
+Quick remove shoes for Lahwran
 
 ----
 isJ0On5TSHC9kv33Zp
@@ -241,6 +246,10 @@ check address
 write down that you did a card in gdocs
 
 
+
+-------------------------------
+test to see if this autocommits
+-------------------------------
 
 
 
