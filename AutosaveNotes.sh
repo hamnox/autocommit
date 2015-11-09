@@ -1,6 +1,9 @@
 # checks for diff, if any then commit all and save
-ls ~
 git -C ~/SpaceMonkey/Documents/todos diff --exit-code || git -C ~/SpaceMonkey/Documents/todos commit --all -m "autocommit"
+
+## TODO: make it so cron either sends to my proper email upon changes
+## or does not mail results at all.
+
 
 # git -C $HOME/Spacemonkey/Documents/todos diff --exit-code --quiet && git -C $HOME/Spacemonkey/Documents/todos commit --all -m "autocommit"
 # possible the above didn't work as a cron because I capital-typed a directory
