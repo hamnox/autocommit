@@ -188,7 +188,7 @@ Preventative
 Survey the scene.
 	Achievements - praise, you let me know if there's anything you could use help with.
 	Thoughts - how do you feel about?... reiterate feelings
-	Feelings - what do you think?... why do you think that is?
+	Feelings - what's-is-bucketat do you think?... why do you think that is?
 	.....
 	http://www.secasa.com.au/pages/101-phrases-of-praise/
 	http://www.creativeaffirmations.com/list-of-affirmations.html
@@ -244,12 +244,5 @@ Center image
 check address
 
 write down that you did a card in gdocs
-
-
-
--------------------------------
-test to see if this autocommits
--------------------------------
-
 
 
