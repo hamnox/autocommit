@@ -18,11 +18,11 @@ ask if still doing massages
 10min transcribe feels
 
 Change Dumb Passwords
-look up common password restrictions, take notes
 check classic'd password sites for compromise reports
+check a few dumb pw sites for their pw restrictions
 ask lahwran for his closeby-key password generator
 10min note unneeded sites to kill
-look up common password restrictions, take notes
+brainstorm common password restrictions, take notes
 10min. memorizing my new random 4-pin
 	do random 4-pin up pad and downpad
 	send staggered 4-pin emails, active/passive recognition
