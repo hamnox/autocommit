@@ -26,8 +26,8 @@ ask lahwran for his closeby-key password generator
 10min note unneeded sites to kill
 brainstorm common password restrictions, take notes
 10min. memorizing my new random 4-pin
-	do random 4-pin up pad and downpad
-	send staggered 4-pin emails, active/passive recognition
+ - do random 4-pin up pad and downpad
+ - send staggered 4-pin emails, active/passive recognition
 
 Inventory Room Drawers and Closet
 10min. get overview of a room area for inventory
