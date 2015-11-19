@@ -44,12 +44,11 @@ do today's anxiety headspace
 take a nap
 
 Frequent Pair Debugs
-brainstorm things I might need help with
-brainstorm people I might ask for help with shit
-ask lahwran to brainstorm some bugs
+ask lahwran to ramble about his internal state
 set a timer for 10 minutes and transcribe my/lahwrans feels
-set an alarm for 5 minutes for a question to ask lahwran
 set an alarm for 5 minutes and check on what Lahwran is doing
+draft a low-impact bug report email for sending to lahwran
+ask lahwran to do backwards remembering with me
 
 Berkeley Bowl Jars
 gather snacks from the shelves into bags

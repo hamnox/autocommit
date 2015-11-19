@@ -1,3 +1,5 @@
+# !/bin/bash
+
 # checks for diff, if any then commit all and save
 git -C ~/SpaceMonkey/Documents/todos diff --exit-code || git -C ~/SpaceMonkey/Documents/todos commit --all -m "autocommit"
 
