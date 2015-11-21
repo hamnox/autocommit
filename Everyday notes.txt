@@ -74,7 +74,7 @@ find tablet, put in good place
 15min workflowy shelf on dresser
 
 Get an advised look
-check stylit, find a matching outfit & take a pic
+check mystylit.com, find a matching outfit & take a pic
 find websites to try style portion
 ask lahwran about stitchfix
 browse le tote
@@ -123,6 +123,7 @@ Allstate fucking change address
 ask lahwran how to add scripts to dotfiles
 http://malcolmocean.com/2015/11/proactive-withness/ something about this. I wrote about using aboutness. Also my environments were not conducive.
 @phoenix @hamnox http://careers.stackoverflow.com/jobs?location=San+Francisco&range=20&distanceUnits=Miles. Enough things that don't say senior
+ML paper to read through http://arxiv.org/pdf/1509.02971.pdf
 
 ----
 isJ0On5TSHC9kv33Zp
