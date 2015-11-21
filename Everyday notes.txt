@@ -2,13 +2,11 @@
 INITIATIVES
 
 Affirm Lahwran
-ask to go over lahwran's previous reviews for data points
-ask lahwran what he did today, save notes
-give a random affirmation to lahwran now or by email
-look up anti-anxiety things from prev. review to schedule
-go give a hug and kiss
+10min brainstorm lahwran's accomplishments, save to resend to future
+schedule 3 random affirmations to lahwran today
+5min speculate lahwran's perspective right now
 10min add random affirms from preventative to affirm.py
-10min rework affirm.py version to take text files
+offer 20min snuggling to lahwran
 
 Dating Prospects
 10min look up lovey dovey shit to send to Jeff
@@ -25,11 +23,11 @@ Send staggered 4-pin emails, active/passive recognition
 10min get a random generated password, brainstorm alts
 
 Inventory Room Drawers and Closet
-10min. brainstorm how clothes inventory might work
-10min. check inventory TODOS
 10min. open a drawer and start typing inventory
-10min. open the closet and start typing inventory
 10min. open a box of clothes and start taking inventory
+5 min. get a section ready to record into workflowy
+schedule a time to do inventory in morning
+charge kindle fire, ready workflowy on it
 
 Anxiety Meditation
 do an SOS or timed meditation
@@ -39,24 +37,15 @@ do today's anxiety headspace
 take a nap
 
 Frequent Pair Debugs
-ask lahwran to ramble about his internal state
 set a timer for 10 minutes and transcribe my/lahwrans feels
-set an alarm for 5 minutes and check on what Lahwran is doing
-draft a low-impact bug report email for sending to lahwran
 ask lahwran to do backwards remembering with me
-mail letter
-brainstorm meta habits, ev
-practice meta habits
-clean out fridge
-clip fingernails
-dishwasher
+give a reminder to lahwran to set a timer
+look up adhd tips to email regularlike
+set a 5 min timer, rm distractions (Snooze all inbox, pin/close stuff)
 fix spacemonkey crashing on phone (unicode named video)
-UMR benefits
-take a nap cut some cheese
-set alarm in morning to focus lahwran
-set a 5 min timer, rm distractions (Snooze all inbox, pin/close stuff, clear area, get water + snacks
-send me a pic of what ur doing lahwran
-fix randomizer to do ALL by default
+affirm: give positive feedback for staying focused
+sit down, describe the problem
+UMR benefits with lahwran
 
 Berkeley Bowl Jars
 gather snacks from the shelves into bags
