@@ -1,1 +1,1 @@
-0,30 * * * * ~/SpaceMonkey/Documents/todos/AutosaveNotes.sh
+0,30 * * * * ~/SpaceMonkey/Documents/todos/AutosaveNotes.sh > /dev/null
